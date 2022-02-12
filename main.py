@@ -7,9 +7,9 @@ import os
 #définition des variables
 path = "stories"
 instance = instaloader.Instaloader()
-login = "iyedamri21"
-pwd = "aqzsedr4"
-account_to_scrap = "nln_1383"
+login = "" #identifiant
+pwd = "" #mot de passe
+account_to_scrap = "" #compte à stalker
 #connexion au compte instagram
 instance.login(user=login, passwd=pwd)
 #compte à scrap
