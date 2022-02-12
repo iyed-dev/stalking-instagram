@@ -1,9 +1,5 @@
 #importation des modules
 import instaloader
-from tkinter import *
-import datetime
-import glob
-import os
 #définition des variables
 path = "stories"
 instance = instaloader.Instaloader()
